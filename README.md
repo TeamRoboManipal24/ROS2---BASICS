@@ -1,10 +1,10 @@
 # ROS2---BASICS
-
+## TASK-1:
 ## https://docs.ros.org/en/humble/Tutorials.html
 - Understand the Beginner-CLI tools
 - Understand the Beginner-Client libraries
 - Deadline: SUNDAY(19/1/25)
-## Tasks: 
+## TASK-2: 
 ### I) Turtle sim:
 1) Create a ROS node to control the turtlesim bot. (Move,Rotate,Go to goal)
 2) Write a script to draw a circle using the turtle bot.
@@ -20,3 +20,4 @@ You should be able to send multiple messages without waiting for reply.
 1) Go through the link and implement the same Service Client code in C++ and python given as in the documentation
 
 Make sure to create a workspace and a package and then do these tasks
+- Deadline: THURSDAY (30/1/25)
