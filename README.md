@@ -1,9 +1,9 @@
 # ROS2---BASICS
 
 ## https://docs.ros.org/en/humble/Tutorials.html
-Understand the Beginner - CLI tools 
-Understand the Beginner - Client libraries
-- TILL SUNDAY --
+-Understand the Beginner - CLI tools 
+-Understand the Beginner - Client libraries
+--TILL SUNDAY --
 ## Tasks: 
 ### I) Turtle sim:
 1) Create a ROS node to control the turtlesim bot. (Move,Rotate,Go to goal)
