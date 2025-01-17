@@ -1,4 +1,4 @@
-# ROS2---BASICS
+# ROS2-BASICS
 ## TASK-1:
 ## https://docs.ros.org/en/humble/Tutorials.html
 - Understand the Beginner-CLI tools
